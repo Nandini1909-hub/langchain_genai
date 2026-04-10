@@ -82,23 +82,23 @@ export OPENAI_API_KEY="your_api_key"
 
 Open .ipynb files in Jupyter Notebook or VS Code
 ```
-💡 Key Learnings
- -How to build LLM-powered applications
- -Importance of tools + memory in AI systems
- -Designing scalable agent workflows
- -Converting raw LLM output into usable structured data
+## 💡 Key Learnings
+- How to build LLM-powered applications  
+- Importance of tools + memory in AI systems  
+- Designing scalable agent workflows  
+- Converting raw LLM output into usable structured data  
 
-🌍 Applications
-AI Assistants
-Chatbots
-Automation workflows
-Decision-support systems
+## 🌍 Applications
+- AI Assistants  
+- Chatbots  
+- Automation workflows  
+- Decision-support systems  
 
-📌 Future Improvements
-Integrate RAG (Retrieval-Augmented Generation)
-Deploy using FastAPI
-Add UI using Streamlit
-Multi-agent collaboration systems
+## 📌 Future Improvements
+- Integrate RAG (Retrieval-Augmented Generation)  
+- Deploy using FastAPI  
+- Add UI (Streamlit)  
+- Multi-agent collaboration systems  
 
 👩‍💻 Author
 
